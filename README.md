@@ -8,6 +8,4 @@ Me gusta cocinar pastas y salsas de muchos tipos. Me encanta salir de paseo con 
 ya sean en comics o en libros (aunque mas comics). 
 
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+
