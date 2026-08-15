@@ -8,7 +8,7 @@ Paso Del Rey. Vengo a la unahur estudiar en la Tecnicatura De Videojuegos siempr
 Vivo con mi familia de 7 personas, no somos los de mayor lujo pero nos acomodamos bien. Ayudo en mi casa con los quehaceres y el negocio de comida de mi mama. Yo que llevo ya tres años en esta universidad les puedo decir que me encanta empezar una materia interesante como esta. Espero que nos llevemos bien en esta cursada de POO-1.
 
 
-![Imagen Coco](./Coco.jpg)
+<img src="Coco.jpg" alt="Coco" width="200"/>
 ### Imagen del gato de mi hermana llamado COCO.
 
 #### Cosas que me gustan
