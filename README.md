@@ -9,6 +9,7 @@ Vivo con mi familia de 7 personas, no somos los de mayor lujo pero nos acomodamo
 
 
 <img src="Coco.jpg" alt="Coco" width="200"/>
+
 ### Imagen del gato de mi hermana llamado COCO.
 
 #### Cosas que me gustan
