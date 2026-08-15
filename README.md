@@ -14,9 +14,13 @@ Vivo con mi familia de 7 personas, no somos los de mayor lujo pero nos acomodamo
 #### Cosas que me gustan
 
 -Me gusta cocinar pastas y salsas de muchos tipos. 
+
 -Me encanta salir de paseo con mi cuaderno de dibujo para dibujar al aire libre. 
+
 -Me gustan las historias, ya sean en comics, documentales o en libros (aunque mas comics). 
+
 -Me encanta la animacion en general ya sea 3D o 2D, de pequeño queria hacer mis propios dibujos animados. 
+
 -Lo que ahora mismo me obsesiona es el diseño de videojuegos, es decir como crear una experiencia que se interprete como divertida para el jugador.
 
 
